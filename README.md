@@ -1,8 +1,6 @@
 # KTU-S7-Compiler-Lab-CSL411
 A set of programs done in the lab during seventh semester
 
-# S7 Compiler Lab Experiments (KTU 2019 Scheme)
-
 (See [Syllabus](https://drive.google.com/file/d/1Rioof9iXXxhx8r6v0KyUyEd0BAUTCSba/view))
 
 ## Experiments
