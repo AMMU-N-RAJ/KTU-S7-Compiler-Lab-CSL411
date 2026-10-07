@@ -17,7 +17,9 @@ A set of programs done in the lab during seventh semester
 |     18      |       Program to implement Intermediate Code generator       |
 
 ## Compiling and running programs
-
-
-```
 ![Alt text](images/p10.png)
+![Alt text](images/p12.png)
+![Alt text](images/p14.png)
+![Alt text](images/p15.png)
+![Alt text](images/p16.png)
+![Alt text](images/p18.png)
