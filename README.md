@@ -18,6 +18,6 @@ A set of programs done in the lab during seventh semester
 
 ## Compiling and running programs
 
-./a.out
+
 ```
 ![Alt text](images/p10.png)
