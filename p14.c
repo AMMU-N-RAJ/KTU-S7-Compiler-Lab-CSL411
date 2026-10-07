@@ -1,4 +1,4 @@
- GNU nano 7.2                                                                                                                                                                                                                     p14.c
+                                                                                                                                                                           
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
